@@ -4,10 +4,9 @@ My favorite code quote, "<span id="k">What matters most is how well you walk thr
 
 <br/><br/><h3>Sabi Mantock - FrontEnd Developer</h3>
 <p>FrontEnd-Developer with 1 year experience building web apps</p> 
-<p> Tech Stacks: {Javascript}, {React} <br/>DataBase:{null}. <br/>Api Spec: REST  <br/> Infastructure: Heroku</p>
-
+<p> Tech Stacks: {Javascript}, {React} <br/>DataBase:{FireStore}. <br/>Api Spec: REST  <br/> Infastructure: Heroku</p>
 <p>Languages: English<br><br><br> 
-<p>Useful Links: <br> <a href="https://www.linkedin.com/in/sabi-mantock/" target="_blank">LinkedIn</a> <br> <a href="https://github.com/SabiMantock" target="_blank">Github</a>  <br> <a href="https://twitter.com/IamSabiMantock" target="_blank">Twitter</a><br><a href="#" target="_blank">Access My Resume</a>.</p>
+<p>Useful Links: <br> <a href="https://www.linkedin.com/in/sabi-mantock/" target="_blank">LinkedIn</a> <br> <a href="https://github.com/SabiMantock" target="_blank">Github</a>  <br> <a href="https://twitter.com/IamSabiMantock" target="_blank">Twitter</a><br><a href="https://docs.google.com/document/d/1i-5EBlHm3XcdJ-oY8Mr4e2ixjvq9ILqnmKwl8Ga9_H0/edit?usp=sharing" target="_blank">Access My Resume</a>.</p>
 
  feel free to send me an email at <a href="mailTo:sabimantock@gmail.com">sabimantock@gmail.com</a>.
 
