@@ -2,7 +2,7 @@
 <span id="a">Sabi@Mantock</span>:<span id="b">~</span><span id="c">$</span> cat sabimantock.txt<br/><br/>
 My favorite code quote, "<span id="k">What matters most is how well you walk through the fire.</span>". 
 <br/><h3>Sabi Mantock - Javascript Developer</h3>
-<p>Javascript-Developer with 1 year experience building web apps</p> 
+<p>Javascript Developer with 1 year experience building web apps</p> 
 <p> Tech Stacks: {Javascript}, {React} <br/>DataBase:{FireStore}. <br/>Api Spec: REST  <br/> Infastructure: Heroku,  Firebase</p>
 <p>Languages: English</p>
 <p>Useful Links: <br> <a href="https://www.linkedin.com/in/sabi-mantock/" target="_blank">LinkedIn</a> <br> <a href="https://github.com/SabiMantock" target="_blank">Github</a>  <br> <a href="https://twitter.com/IamSabiMantock" target="_blank">Twitter</a><br><a href="https://docs.google.com/document/d/1i-5EBlHm3XcdJ-oY8Mr4e2ixjvq9ILqnmKwl8Ga9_H0/edit?usp=sharing" target="_blank">Access My Resume</a><br><a href="https://fb-messanger-clone-8267d.web.app/" target="_blank">FaceBookMessenger Clone</a> <br><a href="https://todo-app-a850b.web.app/" target="_blank">Todo-App</a>.</p>
