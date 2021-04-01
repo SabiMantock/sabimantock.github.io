@@ -1,7 +1,7 @@
 <span id="a">Sabi@Mantock</span>:<span id="b">~</span><span id="c">$</span> cd SabiMantock/About_Me
 <span id="a">Sabi@Mantock</span>:<span id="b">~</span><span id="c">$</span> cat sabimantock.txt<br/><br/>
 My favorite code quote, "<span id="k">What matters most is how well you walk through the fire.</span>". 
-<br/><h3>Sabi Mantock - FrontEnd Developer</h3>
+<br/><h3>Sabi Mantock - Javascript Developer</h3>
 <p>Javascript-Developer with 1 year experience building web apps</p> 
 <p> Tech Stacks: {Javascript}, {React} <br/>DataBase:{FireStore}. <br/>Api Spec: REST  <br/> Infastructure: Heroku,  Firebase</p>
 <p>Languages: English</p>
